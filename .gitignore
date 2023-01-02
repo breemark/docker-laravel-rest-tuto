@@ -32,3 +32,6 @@ Homestead.json
 # SQL Server files
 *.mdf
 *.ldf
+
+
+laravel-admin/storage/
